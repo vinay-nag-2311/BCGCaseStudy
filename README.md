@@ -23,3 +23,4 @@ The output files have been stored in the [outputs](https://github.com/vinay-nag-
 Individual methods for each analytic solution have been defined in the **src/main/scala/com/bcg/jobs/carCrashAnalysisMethods.scala** and 
 each method has been implemented in **src/main/scala/com/bcg/jobs/carCrashAnalysisJobs.scala**.
 The project execution begins from **src/main/scala/com/bcg/pipeline/carCrashAnalysisMain.scala**.
+The input and output paths have been declared in the **src/main/scala/com/bcg/utilities/constants.scala**.
