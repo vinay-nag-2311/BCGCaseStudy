@@ -1,4 +1,4 @@
-# BCG Case Study
+# Car Crash Case Study
 Car crash analytics case study as part of recruitment
 
 <!-- PROJECT STRUCTURE -->
